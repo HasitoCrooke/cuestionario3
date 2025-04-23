@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>index</title>
+<!-- TemplateEndEditable -->
+<link href="../css.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="contenedor">
+  <div id="cabecera">RECORRIDOS TURÍSTICOS</div>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <div id="contenido1">Content for  id "contenido1" Goes Here</div>
+  <div id="contenido2">Content for  id "contenido2" Goes Here</div>
+  <!-- TemplateEndEditable -->
+  <div id="footer">CDMX, México &copy;</div>
+  <div class="menusillo">
+		<nav class="menu">
+			<ul class="nav">
+				<li><a href="../index.html"><img src="../recursos/Recurso 1.png" width="50%" alt=""/></a></li>
+				<li><a href="../s1.html">PRECIOS</a></li>
+				<li><a href="../s2.html">COYOACÁN</a>
+					<ul>
+						<li><a href="../ese2/s2-1.html">CENTRO HISTÓRICO</a></li>
+						<li><a href="../ese2/s2-2.html">XOCHIMILCO</a></li>
+					</ul>
+				</li>
+				<li><a href="../s3.html">CONTACTO</a></li>
+			</ul>
+		</nav>
+	</div>
+</div>
+	
+</body>
+</html>
